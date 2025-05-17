@@ -1,51 +1,51 @@
 # 👋 Hello World! I'm Hakam Koubaa 
 
-**Blue Team Cybersecurity Apprentice | Threat Hunter | SOC Aspirant**  
-*"Protecting systems is my passion. Breaking them was my hobby."*  
+**Blue Team Cybersecurity Apprentice | SOC Analyst | Incident Response Enthusiast**  
+*"Defending networks by day, sharpening skills by night."*  
 
 ---
 
 ### 🔐 About Me  
-- **🛡️ Blue Team Enthusiast** – Specializing in **Threat Detection (SIEM/Splunk), Incident Response, and Forensics**.  
-- **🔍 Blockchain Security Researcher** – Leveraging my Web3 background to analyze smart contract vulnerabilities & crypto threats.  
-- **🎯 Mission**: Transitioning from blockchain development to cybersecurity to defend critical infrastructures.  
+- **🛡️ SOC Aspirant** – Passionate about **Threat Hunting, SIEM (Splunk), and Security Operations**.  
+- **🔍 Hands-On Learner** – Building home labs and documenting my journey into cybersecurity.  
+- **🎯 Goal**: Secure critical infrastructures through proactive defense and continuous learning.  
 
 ---
 
-### 🛠️ Technical Arsenal  
-#### **🛡️ Defense (Blue Team)**  
-`SIEM (Splunk)` | `EDR` | `Threat Hunting (MITRE ATT&CK)` | `Incident Response Playbooks`  
-#### **🔍 Forensics & Tools**  
-`Wireshark` | `Autopsy` | `Zeek/Suricata` | `Volatility`  
-#### **☁️ Cloud & DevSecOps**  
-`AWS Security` | `Docker Hardening` | `Python (IR Scripting)`  
-#### **💡 Blockchain Security (Bonus)**  
-`Smart Contract Auditing` | `Web3 Threat Intelligence`  
+### 🛠️ Technical Toolkit  
+#### **🔍 Detection & Response**  
+`Splunk` | `Wazuh` | `MITRE ATT&CK` | `Incident Response (NIST)`  
+#### **🕵️ Forensics & Analysis**  
+`Wireshark` | `Zeek/Suricata` | `Autopsy` | `Volatility`  
+#### **🛡️ Defensive Security**  
+`EDR Solutions` | `Firewall Rules` | `OS Hardening`  
+#### **⚙️ Automation & Scripting**  
+`Python (IR Scripts & Malware)` | `Bash/PowerShell` | `Regex`  
 
 ---
 
-### 🚀 Current Projects  
-- **🏠 Homelab SOC**: Building a SIEM lab with Splunk + Wazuh for log analysis ([GitHub repo](#)).  
-- **📜 CTF Writeups**: Documenting TryHackMe/HackTheBox solutions (Focus: Forensics & Malware Analysis).  
-- **📊 Cyber Threat Research**: Analyzing emerging ransomware TTPs and sharing findings.  
+### 🚀 Active Projects  
+- **🏠 Home SOC Lab**: Deploying Splunk + Wazuh for real-time threat detection ([GitHub repo](#)).  
+- **📜 CTF Solutions**: Documenting TryHackMe/HackTheBox walkthroughs (focus: network forensics).  
+- **📊 Threat Research**: Analyzing recent malware campaigns and sharing findings.  
 
 ---
 
-### 📚 Learning Goals  
-- **📜 Certifications**: CompTIA Security+ (in progress), Splunk Certified Defender.  
-- **📖 Studying**: MITRE ATT&CK Framework, NIST Incident Response Guides.  
+### 📚 Current Focus  
+- **📜 Certifications**: Certified In Cybersecurity (CC) ISC² | CompTIA Security+ (in progress).  
+- **📖 Studying**: ANSSI guides | MITRE ATT&CK Framework | French cybersecurity laws (LPM, RGPD).  
 
 ---
 
 ### 🤝 Let’s Connect!  
-I’m open to **apprenticeship opportunities, CTF collaborations, or cybersecurity discussions**:  
+Open to **apprenticeship opportunities, mentorship, or technical discussions**:  
+- **🌐 Website**: [hakamkoubaa.com](https://www.hakamkoubaa.com)  
 - **📧 Email**: [hakamkoubaa@gmail.com](mailto:hakamkoubaa@gmail.com)  
 - **🔗 LinkedIn**: [Hakam Koubaa](https://linkedin.com/in/hakam-koubaa)  
-- **🐦 Twitter (Optional)**: [@YourHandle](#) *(Share threat intel here!)*  
 
 ---
 
-> *"In cybersecurity, you’re either the one who builds the walls or the one who tests them. I do both."*  
+> *"In cybersecurity, the best defense is a curious mind and relentless preparation."*  
 
 <!---
 hakamkoubaa/hakamkoubaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
