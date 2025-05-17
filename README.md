@@ -1,34 +1,52 @@
-# 👋 Hey there! I'm Akatsuki1995 
+# 👋 Hello World! I'm Hakam Koubaa 
 
-I'm a blockchain enthusiast and developer, passionate about pushing the boundaries of decentralization and creating secure, scalable Web3 solutions.
-
----
-
-### 🚀 About Me
-- **🌐 Blockchain Visionary:** Diving deep into blockchain development and working towards building a decentralized future.
-- **🔍 Exploring** advanced smart contracts, consensus mechanisms, and blockchain security.
-- **🤝 Open to Collaborate** on Web3 projects that align with the vision of a decentralized internet.
-  
----
-
-### 🔧 What I'm Working On
-- **Mastering Blockchain Development**: Expanding my expertise in Solidity, DevOps, and smart contract security.
-- **Building Projects**: Constantly challenging myself with real-world blockchain applications and sharing them here.
-- **Learning & Growing**: Every day is a new opportunity to dive deeper and learn something transformative.
+**Blue Team Cybersecurity Apprentice | Threat Hunter | SOC Aspirant**  
+*"Protecting systems is my passion. Breaking them was my hobby."*  
 
 ---
 
-### 📫 Let's Connect!
-I'm always open to networking, sharing ideas, and discussing blockchain. Feel free to reach out via:
-- **Email**: [hakamkoubaa@gmail.com](mailto:hakamkoubaa@gmail.com)
-- **LinkedIn**: [Hakam Koubaa](https://www.linkedin.com/in/hakam-koubaa/)
-  
-Or just drop by to check out my projects!
+### 🔐 About Me  
+- **🛡️ Blue Team Enthusiast** – Specializing in **Threat Detection (SIEM/Splunk), Incident Response, and Forensics**.  
+- **🔍 Blockchain Security Researcher** – Leveraging my Web3 background to analyze smart contract vulnerabilities & crypto threats.  
+- **🎯 Mission**: Transitioning from blockchain development to cybersecurity to defend critical infrastructures.  
 
 ---
 
-> "Decentralization is the future. Let's build it together." 🚀
-  
+### 🛠️ Technical Arsenal  
+#### **🛡️ Defense (Blue Team)**  
+`SIEM (Splunk)` | `EDR` | `Threat Hunting (MITRE ATT&CK)` | `Incident Response Playbooks`  
+#### **🔍 Forensics & Tools**  
+`Wireshark` | `Autopsy` | `Zeek/Suricata` | `Volatility`  
+#### **☁️ Cloud & DevSecOps**  
+`AWS Security` | `Docker Hardening` | `Python (IR Scripting)`  
+#### **💡 Blockchain Security (Bonus)**  
+`Smart Contract Auditing` | `Web3 Threat Intelligence`  
+
+---
+
+### 🚀 Current Projects  
+- **🏠 Homelab SOC**: Building a SIEM lab with Splunk + Wazuh for log analysis ([GitHub repo](#)).  
+- **📜 CTF Writeups**: Documenting TryHackMe/HackTheBox solutions (Focus: Forensics & Malware Analysis).  
+- **📊 Cyber Threat Research**: Analyzing emerging ransomware TTPs and sharing findings.  
+
+---
+
+### 📚 Learning Goals  
+- **📜 Certifications**: CompTIA Security+ (in progress), Splunk Certified Defender.  
+- **📖 Studying**: MITRE ATT&CK Framework, NIST Incident Response Guides.  
+
+---
+
+### 🤝 Let’s Connect!  
+I’m open to **apprenticeship opportunities, CTF collaborations, or cybersecurity discussions**:  
+- **📧 Email**: [hakamkoubaa@gmail.com](mailto:hakamkoubaa@gmail.com)  
+- **🔗 LinkedIn**: [Hakam Koubaa](https://linkedin.com/in/hakam-koubaa)  
+- **🐦 Twitter (Optional)**: [@YourHandle](#) *(Share threat intel here!)*  
+
+---
+
+> *"In cybersecurity, you’re either the one who builds the walls or the one who tests them. I do both."*  
+
 <!---
-Akatsuki1995/Akatsuki1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+hakamkoubaa/hakamkoubaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
